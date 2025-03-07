@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Frontend Developer",
+      "description": "Kami mencari seorang Frontend Developer untuk bekerja di proyek aplikasi web kami. Pengalaman dengan HTML, CSS, JavaScript, dan framework seperti React sangat diutamakan.",
+      "location": "Jakarta, Indonesia",
+      "CompanyId": 1,
+      "createdAt": "2025-03-01T10:00:00Z",
+      "updatedAt": "2025-03-01T10:00:00Z"
+    },
+    {
+      "title": "Backend Developer",
+      "description": "Bergabunglah dengan tim kami sebagai Backend Developer untuk membangun API dan sistem backend menggunakan Node.js, Express, dan MongoDB.",
+      "location": "Bandung, Indonesia",
+      "CompanyId": 2,
+      "createdAt": "2025-03-01T10:00:00Z",
+      "updatedAt": "2025-03-01T10:00:00Z"
+    },
+    {
+      "title": "Mobile App Developer",
+      "description": "Kami membutuhkan seorang Mobile App Developer untuk membangun aplikasi mobile menggunakan Flutter atau React Native.",
+      "location": "Surabaya, Indonesia",
+      "CompanyId": 1,
+      "createdAt": "2025-03-01T10:00:00Z",
+      "updatedAt": "2025-03-01T10:00:00Z"
+    }
+  ]
+  

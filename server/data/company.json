@@ -1,0 +1,19 @@
+[
+    {
+      "UserId": 2,
+      "companyName": "PT Techindo",
+      "address": "Jl. Raya No. 10, Jakarta, Indonesia",
+      "website": "https://www.techindo.com",
+      "createdAt": "2025-03-01T10:00:00Z",
+      "updatedAt": "2025-03-01T10:00:00Z"
+    },
+    {
+      "UserId": 3,
+      "companyName": "PT Aplikasi Digital",
+      "address": "Jl. Merdeka No. 20, Bandung, Indonesia",
+      "website": "https://www.aplikasidigital.com",
+      "createdAt": "2025-03-01T10:00:00Z",
+      "updatedAt": "2025-03-01T10:00:00Z"
+    }
+  ]
+  
